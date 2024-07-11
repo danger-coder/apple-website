@@ -9,7 +9,7 @@ function App() {
   return (
     <>
       <div className='h-screen bg-red-200 w-full'>
-        <h1>hello</h1>
+
       </div>
     </>
   )
