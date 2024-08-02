@@ -2,9 +2,9 @@
 
 const Highlights = () => {
   return (
-    <div>
+    <section id="highlights">
       hightlight
-    </div>
+    </section>
   )
 }
 
