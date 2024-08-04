@@ -3,7 +3,7 @@
 const Highlights = () => {
   return (
     <section id="highlights">
-      hightlight
+      
     </section>
   )
 }
