@@ -27,9 +27,9 @@ const Highlights = () => {
             </p>
           </div>
         </div>
+      <VideoCarousel/>
       </div>
 
-      <VideoCarousel/>
     </section>
   )
 }
