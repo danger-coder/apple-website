@@ -11,6 +11,7 @@ const VideoCarousel = () => {
                 <video id="video" playsInline={true} preload="auto" muted>
                   <source src={list.video} type="video/mp4"></source>
                 </video>
+                
                 <div className="absolute top-12 left-[5%] z-10">
                   {list.textLists.map((text)=>(
                     <p key={text.id} className="text-white text-xs font-medium">
