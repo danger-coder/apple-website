@@ -18,6 +18,7 @@ const VideoCarousel = () => {
                     <p key={text.id} className="text-white text-xs font-medium">
                       {text}
                     </p>
+                    
                   ))}
 
                 </div>
